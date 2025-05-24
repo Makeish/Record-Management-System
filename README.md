@@ -1,6 +1,6 @@
 # Record Management System in C (UNIX Environment)
 
-This is a terminal-based Record Management System developed in C as part of the COMP 2131 Computer Architecture course (January 2025). The project focuses on creating, modifying, and managing records stored in a binary file through a menu-driven interface.
+This is a terminal-based Record Management System developed in C. The project focuses on creating, modifying, and managing records stored in a binary file through a menu-driven interface.
 
 ## Features
 
