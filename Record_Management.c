@@ -1,10 +1,3 @@
-//Makeish Raveendran
-//T00772393
-//COMP 2131
-//Programming Assignment 2
-//OL Faculty Member: Dr. Kumka
-//January 2nd 2025
-
 #include <stdio.h>
 #include <string.h>
 
